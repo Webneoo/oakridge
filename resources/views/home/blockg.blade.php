@@ -38,17 +38,7 @@
 							<b>First floor:</b> 4 master bedrooms and 1 family room.<br>
 							<b>Roof:</b> recreation area and terrace.
 							</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">

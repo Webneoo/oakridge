@@ -32,17 +32,7 @@
 							</header>
 
 							<p>A magnificent choice of garden level condos, and condos on the 1st and 2nd floors, the Condominiums represent an ideal option for singles, smaller families and those interested in weekend and holiday homes.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">

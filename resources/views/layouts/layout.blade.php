@@ -103,9 +103,19 @@
                                         </a>
                                     </li>
                                     <li class="dropdown"><!-- PAGES -->
-                                        <a class="" href="/project">
+                                        <a class="dropdown-toggle" href="/project">
                                             THE PROJECT
                                         </a>
+
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/project">PROJECT</a></li>
+                                            <li><a href="/residences">RESIDENCES</a></li>
+                                            <li><a href="/condominiums">CONDOMINIUMS</a></li>
+                                            <li><a href="/block-g">BLOCK G</a></li>
+                                            <li><a href="/villas">VILLAS</a></li>
+                                            <li><a href="/lodge">LODGE</a></li>
+                                            <li><a href="/facilities">FACILITIES</a></li>
+                                        </ul>
                                     </li>
                                     <li class="dropdown active"><!-- FEATURES -->
                                         <a class="" href="/mountain">

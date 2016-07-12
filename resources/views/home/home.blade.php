@@ -229,17 +229,7 @@
 							<p>Oakridge finds itself amongst an inspiring hilltop landscape with dramatic views onto lower valleys, agricultural terraces, forested hilltops and distant sea views. The landscape design sows the seeds for sustainable development, creating a high quality and exclusive residential estate in Faqra - Kfardebian. And it is only natural that the overall landscaping vision for Oakridge blends seamlessly with the natural surroundings.
 							Oakridge Mountain Estate embraces the natural beauty of the Faqra - Kfardebian region to create a high quality and exclusive residential estate:
 The Height of Luxury.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
@@ -268,17 +258,7 @@ The Height of Luxury.</p>
 							</header>
 
 							<p>Oakridge’s external architecture combines stone with warm wood, modern glass and bright brick roof tiles. The underlying result is an invitingly contemporary vibe accentuated by an unmistakable rural character. The slanted roofs play on different heights and positioning of windows and balconies prevent Oakridge from being uncreatively monotonous while preserving a feel that is uniquely Oakridge.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6">
@@ -332,17 +312,7 @@ The Height of Luxury.</p>
 							<p>Since Oakridge is at ‘the heights of luxury’, it naturally follows that this focus on quality extends itself to the interiors.
 The welldesigned layouts use of top quality materials and premium finishing, come together to make each inch of Oakridge’s inner world a tribute to class and comfort.
 </p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
@@ -374,17 +344,7 @@ The welldesigned layouts use of top quality materials and premium finishing, com
 
 From the instance you enter through Oakridge’s gates, you automatically feel at ease with nature and find yourself in a realm of aesthetic contemporary design. A private community.
 </p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6">
@@ -410,17 +370,7 @@ From the instance you enter through Oakridge’s gates, you automatically feel a
 							</header>
 
 							<p>A world full of activities and attractions for all ages: tennis, swimming, bicycle, rollers, hiking and much more. Children can play to their hearts’ content and engage in the thrills of outdoor fun. Teenagers, young adults and newlyweds can socialize in the carefree, harmonious setting and take pleasure in the wealth of entertainment choices available. And older residents can unwind in the tranquillity of nature and comfort.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">

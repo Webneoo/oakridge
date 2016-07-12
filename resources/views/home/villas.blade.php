@@ -41,17 +41,7 @@
 								Villas are composed of:<br>
 								Garden floor: reception area + swimming pool + garden<br>
 								Ground floor: big reception area with nice openings</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+				
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">

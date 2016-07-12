@@ -36,17 +36,7 @@
 								The Lodge’s lobby features wood louvers that filter out all troubling distractions and has quite a dramatic effect, particularly when lit-up at night. An impressive fireplace highlights the lobby bar with lush sofas that beckon arriving guests.
 								The lobby atrium, reception, bar lounge, multi-purpose area, restaurant, conference facilities and business center, convenience store, executive lounge, and adult play rooms, offer an abundance of options for business and pleasure.
 								The restaurant’s concept deliciously revolves around warmth and spectacular design with dramatic views adding even more flavour.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">

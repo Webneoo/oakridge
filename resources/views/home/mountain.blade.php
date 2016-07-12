@@ -32,17 +32,7 @@
 							<p>Oakridge makes its home nestled high in the mountains of Faqra - Kfardebian .
 On top of the world at 1,550m above sea level, Faqra - Kfardebian is only 55km away from Beirut. Faqra - Kfardebian’s legendary fresh weather adds more charm to its historical significance with the ruins of the Phoenician Goddess Astestre’s temple and the Roman Emperor Claudius’s tower.
 Faqra - Kfardebian is also renowned for its stunning 34m stone bridge crafted almost magically by nature. In the modern era Faqra - Kfardebian has become famous for its attractive lifestyle and world of leisure.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
@@ -73,17 +63,7 @@ Faqra - Kfardebian is also renowned for its stunning 34m stone bridge crafted al
 							<p>A region renowned for its elegant and prestigious quality of living, Oakridge further adds to the area’s fame. A fresh freeze of modern luxury with rural charm, Oakridge is located away from busy city stress and yet boasts easy access to Beirut and the rest of Lebanon.
 Cool summer weather, heart-warming white winters, dazzling views and lush greenery make Oakridge’s locale highly sought after.
 From its prime position, Oakridge invites residents into a heavenly world of distinction.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6">
@@ -111,17 +91,7 @@ From its prime position, Oakridge invites residents into a heavenly world of dis
 
 							<p>High in the mountains, Faqra - Kfardebian and hence Oakridge command spectacular views which seem to overlook the world. Open horizons, lush greenery, picturesque mountains and distant locales can all be seen. Such visual pleasure is priceless.
 </p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
@@ -151,17 +121,7 @@ From its prime position, Oakridge invites residents into a heavenly world of dis
 
 							<p>Oakridge represents a luxurious way of life. The location alone sets the stage for open views and sea vistas. And Oakridge’s design takes into account the percentage of construction and uses slopes to ensure every home has a stunning panoramic outlook.
 Oakridge is splendid all year round. In summer or in winter, the professional management services ensure each little aspect is operating perfectly and all is safe and secure. Oakridge is quality living’s address.</p>
-							<a href="#">
-								Read
-								<!-- /word rotator -->
-								<span class="word-rotator" data-delay="2000">
-									<span class="items">
-										<span>more</span>
-										<span>now</span>
-									</span>
-								</span><!-- /word rotator -->
-								<i class="glyphicon glyphicon-menu-right size-12"></i>
-							</a>
+							
 						</div>
 
 						<div class="col-md-6 col-sm-6">
