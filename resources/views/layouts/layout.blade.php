@@ -180,9 +180,7 @@
                                     <li class="footer-sprite phone">
                                         Phone: 03 – 255 588
                                     </li>
-                                    <li class="footer-sprite email">
-                                        <a href="mailto:info@oakridgefaqra.com">info@oakridgefaqra.com</a>
-                                    </li>
+                     
                                 </ul>
                             </address>
                             <!-- /Contact Address -->
@@ -233,15 +231,15 @@
                             <h4 class="letter-spacing-1">KEEP IN TOUCH</h4>
                             <p>Send us your email and we will contact you for more information about the project, our offers and prices.</p>
 
-                            <form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
-                                <div class="input-group">
-                                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                    <input type="email" id="email" name="email" class="form-control required" placeholder="Enter your Email">
-                                    <span class="input-group-btn">
-                                        <button class="btn btn-success" type="submit">Subscribe</button>
-                                    </span>
-                                </div>
-                            </form>
+                           <!-- Contact Address -->
+                            <address>
+                                <ul class="list-unstyled">
+                         
+                                    <li class="footer-sprite email">
+                                        <a href="mailto:info@oakridgefaqra.com">info@oakridgefaqra.com</a>
+                                    </li>
+                                </ul>
+                            </address>
                             <!-- /Newsletter Form -->
 
                             <!-- Social Icons -->
