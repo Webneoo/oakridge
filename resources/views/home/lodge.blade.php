@@ -50,7 +50,7 @@
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img class="img-responsive" src="assets/images/lodge.jpg"  width="547"  alt="service" />
+							<img class="img-responsive" src="/assets/images/lodge.jpg"  width="547"  alt="service" />
 						</div>
 
 					</div>
@@ -83,7 +83,7 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
@@ -94,13 +94,13 @@
 										<!-- carousel -->
 										<div class="owl-carousel buttons-autohide controlls-over nomargin" data-plugin-options='{"singleItem": true, "autoPlay": 4000, "navigation": false, "pagination": true, "transitionStyle":"goDown"}'>
 											<div>
-												<img class="img-responsive" src="assets/images/demo/mockups/600x399/8-min.jpg" width="600" height="399" alt="">
+												<img class="img-responsive" src="/assets/images/demo/mockups/600x399/8-min.jpg" width="600" height="399" alt="">
 											</div>
 											<div>
-												<img class="img-responsive" src="assets/images/demo/mockups/600x399/9-min.jpg" width="600" height="399" alt="">
+												<img class="img-responsive" src="/assets/images/demo/mockups/600x399/9-min.jpg" width="600" height="399" alt="">
 											</div>
 											<div>
-												<img class="img-responsive" src="assets/images/demo/mockups/600x399/10-min.jpg" width="600" height="399" alt="">
+												<img class="img-responsive" src="/assets/images/demo/mockups/600x399/10-min.jpg" width="600" height="399" alt="">
 											</div>
 										</div>
 										<!-- /carousel -->
@@ -120,14 +120,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/20-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/20-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/20-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/20-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -143,14 +143,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/19-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/19-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/19-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/19-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -166,14 +166,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/11-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/11-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -189,14 +189,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/12-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/12-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/12-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/12-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -212,14 +212,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/13-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/13-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/13-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/13-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -235,14 +235,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/14-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/14-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/14-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/14-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -258,14 +258,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/17-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/17-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/17-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/17-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 
@@ -281,14 +281,14 @@
 											<span class="inner">
 
 												<!-- lightbox -->
-												<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/16-min.jpg" data-plugin-options='{"type":"image"}'>
+												<a class="ico-rounded lightbox" href="/assets/images/demo/mockups/1200x800/16-min.jpg" data-plugin-options='{"type":"image"}'>
 													<span class="fa fa-plus size-20"></span>
 												</a>
 
 
 											</span>
 										</span>
-										<img class="img-responsive" src="assets/images/demo/mockups/600x399/16-min.jpg" width="600" height="399" alt="">
+										<img class="img-responsive" src="/assets/images/demo/mockups/600x399/16-min.jpg" width="600" height="399" alt="">
 									</figure>
 								</div>
 

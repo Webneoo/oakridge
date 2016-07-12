@@ -47,7 +47,7 @@
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
 
-							<img src="assets/images/project.jpg" width="547" />
+							<img src="/assets/images/project.jpg" width="547" />
 						</div>
 
 					</div>
@@ -64,7 +64,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/residences">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/residences.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/residences.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE RESIDENCES</h4>
@@ -78,7 +78,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/condominiums">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/condos.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/condos.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE CONDOMINIUMS</h4>
@@ -90,7 +90,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/block-g">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/blockg.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/blockg.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">BLOCK G</h4>
@@ -109,7 +109,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/villas">
 							<figure class="margin-bottom-20">
-								<img class="img-responsive" src="assets/images/villa.jpg" alt="service" />
+								<img class="img-responsive" src="/assets/images/villa.jpg" alt="service" />
 							</figure>
 
 							<h4 class="nomargin-bottom">VILLAS</h4>
@@ -121,7 +121,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/lodge">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/lodge.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/lodge.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE LODGE</h4>
@@ -133,7 +133,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/facilities">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">FACILITIES</h4>
@@ -174,7 +174,7 @@
 						</div>
 
 						<div class="col-md-6 col-sm-6">
-							<img src="assets/images/master.png" width="547" />
+							<img src="/assets/images/master.png" width="547" />
 						</div>
 
 					</div>

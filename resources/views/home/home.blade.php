@@ -23,7 +23,7 @@
 
 
 						<!-- SLIDE 2 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide2.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide2.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -48,7 +48,7 @@
 						<!-- /SLIDE 2 -->
 
 						<!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide3.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide3.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -73,7 +73,7 @@
 						<!-- /SLIDE 3 -->
 
 						<!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide4.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide4.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -99,7 +99,7 @@
 
 
 <!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide5.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide5.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -125,7 +125,7 @@
 
 
 <!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide6.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide6.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -151,7 +151,7 @@
 
 
 <!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide7.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide7.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -176,7 +176,7 @@
 						<!-- /SLIDE 3 -->
 
 									<!-- SLIDE 1 -->
-						<div class="swiper-slide" style="background-image: url('assets/images/slide1.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide1.jpg');">
 							<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -243,7 +243,7 @@ The Height of Luxury.</p>
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img src="assets/images/luxury.jpg" width="547" />
+							<img src="/assets/images/luxury.jpg" width="547" />
 						</div>
 
 					</div>
@@ -282,7 +282,7 @@ The Height of Luxury.</p>
 						</div>
 
 						<div class="col-md-6 col-sm-6">
-							<img src="assets/images/outdoor.jpg" width="547" />
+							<img src="/assets/images/outdoor.jpg" width="547" />
 						</div>
 
 					</div>
@@ -296,7 +296,7 @@ The Height of Luxury.</p>
 
 
 			<!-- PARALLAX -->
-			<section class="parallax parallax-2" style="background-image: url('assets/images/demo/1200x800/1-min.jpg');">
+			<section class="parallax parallax-2" style="background-image: url('/assets/images/demo/1200x800/1-min.jpg');">
 				<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
 
 				<div class="container text-center">
@@ -346,7 +346,7 @@ The welldesigned layouts use of top quality materials and premium finishing, com
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img src="assets/images/interior.jpg" width="547" />
+							<img src="/assets/images/interior.jpg" width="547" />
 						</div>
 
 					</div>
@@ -388,7 +388,7 @@ From the instance you enter through Oakridge’s gates, you automatically feel a
 						</div>
 
 						<div class="col-md-6 col-sm-6">
-							<img src="assets/images/lifestyle.jpg" width="547" />
+							<img src="/assets/images/lifestyle.jpg" width="547" />
 						</div>
 
 					</div>
@@ -424,7 +424,7 @@ From the instance you enter through Oakridge’s gates, you automatically feel a
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img src="assets/images/fun.jpg" width="547" />
+							<img src="/assets/images/fun.jpg" width="547" />
 						</div>
 
 					</div>

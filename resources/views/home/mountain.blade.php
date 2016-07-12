@@ -46,7 +46,7 @@ Faqra - Kfardebian is also renowned for its stunning 34m stone bridge crafted al
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img src="assets/images/history.jpg" width="547" />
+							<img src="/assets/images/history.jpg" width="547" />
 						</div>
 
 					</div>
@@ -87,7 +87,7 @@ From its prime position, Oakridge invites residents into a heavenly world of dis
 						</div>
 
 						<div class="col-md-6 col-sm-6">
-							<img src="assets/images/natural.jpg" width="547" />
+							<img src="/assets/images/natural.jpg" width="547" />
 						</div>
 
 					</div>
@@ -125,7 +125,7 @@ From its prime position, Oakridge invites residents into a heavenly world of dis
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<img src="assets/images/views.jpg" width="547" />
+							<img src="/assets/images/views.jpg" width="547" />
 						</div>
 
 					</div>

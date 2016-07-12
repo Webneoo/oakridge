@@ -64,7 +64,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="/block-g">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/17-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/17-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE RESIDENCES</h4>
@@ -78,7 +78,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/18-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/18-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE CONDOMINIUMS</h4>
@@ -90,7 +90,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">BLOCK G</h4>
@@ -109,7 +109,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="">
 							<figure class="margin-bottom-20">
-								<img class="img-responsive" src="assets/images/demo/mockups/800x553/17-min.jpg" alt="service" />
+								<img class="img-responsive" src="/assets/images/demo/mockups/800x553/17-min.jpg" alt="service" />
 							</figure>
 
 							<h4 class="nomargin-bottom">VILLAS</h4>
@@ -121,7 +121,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/18-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/18-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">THE LODGE</h4>
@@ -133,7 +133,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<a href="">
 								<figure class="margin-bottom-20">
-									<img class="img-responsive" src="assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
+									<img class="img-responsive" src="/assets/images/demo/mockups/800x553/3-min.jpg" alt="service" />
 								</figure>
 
 								<h4 class="nomargin-bottom">FACILITIES</h4>
