@@ -296,7 +296,7 @@ The Height of Luxury.</p>
 
 
 			<!-- PARALLAX -->
-			<section class="parallax parallax-2" style="background-image: url('/assets/images/demo/1200x800/1-min.jpg');">
+			<section class="parallax parallax-2" style="background-image: url('/assets/images/2-min.jpg');">
 				<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
 
 				<div class="container text-center">

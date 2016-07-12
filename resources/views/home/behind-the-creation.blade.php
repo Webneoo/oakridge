@@ -45,7 +45,7 @@
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<canvas class="chartjs" id="polarAreaChartCanvas" width="547" height="300"></canvas>
+							<img class="img-responsive" src="/assets/images/behind.jpg"  width="547"  alt="service" />
 						</div>
 
 					</div>
@@ -80,7 +80,7 @@
 						</div>
 
 						<div class="col-md-6 col-sm-6">
-							<canvas class="chartjs" id="barChartCanvas" width="547" height="300"></canvas>
+							<img class="img-responsive" src="/assets/images/architectural.jpg"  width="547"  alt="service" />
 						</div>
 
 					</div>
@@ -118,7 +118,7 @@ Oakridge’s 5 zones are neatly organized, offering utmost privacy coupled with 
 						</div>
 
 						<div class="col-md-6 col-sm-6 col-md-pull-6">
-							<canvas class="chartjs" id="polarAreaChartCanvas" width="547" height="300"></canvas>
+							<img class="img-responsive" src="/assets/images/zone.gif"  width="547"  alt="service" />
 						</div>
 
 					</div>
