@@ -34,7 +34,7 @@
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
 												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Refreshing breeze and breathtaking sceneries: Let the sweetest escapes carry you into the wider space of nature and suburban ease.</p>
 												
 
 											</div>
@@ -58,8 +58,8 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">RESIDENCES</h1>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Modern Living on the Luxury side.</p>
 												
 
 											</div>
@@ -83,8 +83,8 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">CONDOMINIUMS</h1>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Chic Getaways for delightful breaks anytime of the year.</p>
 												
 
 											</div>
@@ -109,7 +109,7 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">CONDOMINIUMS</h1>
 												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
 												
 
@@ -135,8 +135,8 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">BLOCK G</h1>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">A blend of Privacy and Proximity.</p>
 												
 
 											</div>
@@ -161,8 +161,8 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">VILLAS</h1>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">A blend of Privacy and Proximity.</p>
 												
 
 											</div>
@@ -186,8 +186,8 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">WELCOME TO OAKRIDGE</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">LODGE</h1>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">A lobby for all occasions and celebrations.</p>
 												
 
 											</div>
