@@ -110,7 +110,7 @@
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
 												<h1 class="bold font-raleway wow fadeInUp" data-wow-delay="0.4s">CONDOMINIUMS</h1>
-												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">Porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.</p>
+												<p class="lead font-lato weight-300 hidden-xs wow fadeInUp" data-wow-delay="0.6s">	Chic Getaways for delightful breaks anytime of the year.</p>
 												
 
 											</div>
