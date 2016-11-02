@@ -125,7 +125,7 @@
 
 
 <!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('/assets/images/slide6.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide60.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
@@ -151,7 +151,7 @@
 
 
 <!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('/assets/images/slide7.jpg');">
+						<div class="swiper-slide" style="background-image: url('/assets/images/slide70.jpg');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
 							
 							<div class="display-table">
