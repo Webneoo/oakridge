@@ -123,12 +123,12 @@
                                         </a>
                                        
                                     </li>
-                                    <li class="dropdown mega-menu"><!-- PORTFOLIO -->
+                                    <!-- <li class="dropdown mega-menu">
                                         <a class="" href="/construction-updates">
                                             CONSTRUCTION UPDATES
                                         </a>
                                         
-                                    </li>
+                                    </li> -->
                                     <li class="dropdown"><!-- BLOG -->
                                         <a class="" href="/behind-the-creation">
                                             BEHIND THE CREATION
@@ -178,7 +178,7 @@
                                         On site Sales Office <br> Faqra <br> Kfardebian
                                     </li>
                                     <li class="footer-sprite phone">
-                                        Phone: 03 – 255 588
+                                        Phone: 70 707009 / 03 258020
                                     </li>
                      
                                 </ul>
@@ -193,17 +193,10 @@
                             <h4 class="letter-spacing-1">LATEST NEWS</h4>
                             <ul class="footer-posts list-unstyled">
                                 <li>
-                                    Donec sed odio dui. Nulla vitae elit libero, a pharetra augue
-                                    <small>29 June 2015</small>
+                                    The Hotel is coming soon in 2017.
+                                    <small>01 December 2016</small>
                                 </li>
-                                <li>
-                                    Nullam id dolor id nibh ultricies
-                                    <small>29 June 2015</small>
-                                </li>
-                                <li>
-                                    Duis mollis, est non commodo luctus
-                                    <small>29 June 2015</small>
-                                </li>
+                                
                             </ul>
                             <!-- /Latest Blog Post -->
 
@@ -250,25 +243,7 @@
                                     <i class="icon-facebook"></i>
                                 </a>
 
-                                <a href="#" class="social-icon social-icon-border social-twitter pull-left" data-toggle="tooltip" data-placement="top" title="Twitter">
-                                    <i class="icon-twitter"></i>
-                                    <i class="icon-twitter"></i>
-                                </a>
-
-                                <a href="#" class="social-icon social-icon-border social-gplus pull-left" data-toggle="tooltip" data-placement="top" title="Google plus">
-                                    <i class="icon-gplus"></i>
-                                    <i class="icon-gplus"></i>
-                                </a>
-
-                                <a href="#" class="social-icon social-icon-border social-linkedin pull-left" data-toggle="tooltip" data-placement="top" title="Linkedin">
-                                    <i class="icon-linkedin"></i>
-                                    <i class="icon-linkedin"></i>
-                                </a>
-
-                                <a href="#" class="social-icon social-icon-border social-rss pull-left" data-toggle="tooltip" data-placement="top" title="Rss">
-                                    <i class="icon-rss"></i>
-                                    <i class="icon-rss"></i>
-                                </a>
+                               
                     
                             </div>
                             <!-- /Social Icons -->
