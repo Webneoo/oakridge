@@ -210,7 +210,7 @@
                                 <li><a href="/">Oakridge's world</a></li>
                                 <li><a href="/project">The project</a></li>
                                 <li><a href="/mountain">Faqra-Kfardebiane</a></li>
-                                <li><a href="/construction-updates">Construction Updates</a></li>
+                                <!-- <li><a href="/construction-updates">Construction Updates</a></li> -->
                                 <li><a href="/behind-the-creation">Behind the creation</a></li>
                                 <li><a href="/mountain/#footer">Contact us</a></li>
                             </ul>
