@@ -237,7 +237,7 @@
 
                             <!-- Social Icons -->
                             <div class="margin-top-20">
-                                <a href="#" class="social-icon social-icon-border social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="Facebook">
+                                <a href="https://www.facebook.com/oakridgemountainresort/" class="social-icon social-icon-border social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="Facebook">
 
                                     <i class="icon-facebook"></i>
                                     <i class="icon-facebook"></i>
