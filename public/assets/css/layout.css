@@ -7050,9 +7050,6 @@ ul.search-history {
 	}
 
 	/* footer contact text */
-	#footer address {
-		background:url('../images/world-map.png') no-repeat center;
-	}
 	#footer address .footer-sprite {
 		margin-bottom:20px;
 		padding-left:30px; 
